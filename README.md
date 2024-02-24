@@ -2,8 +2,8 @@
 
 This project utilizes OpenAI and Streamlit to create an Advanced Talent Search (ATS) scanner. Users can upload their job descriptions and resumes, and the system provides dynamic feedback, generates cover letters, interview questions, career suggestions, email templates, and frames LinkedIn messages.
 
-<img src="https://github.com/abhi526691/ATS-Resume-/assets/53704940/10cc19fb-7133-44e0-9059-2cb7d1ed3e89" width="80%" height="500" alt="ALT_TEXT">
-<img src="https://github.com/abhi526691/ATS-Resume-/assets/53704940/6fe27b73-e30e-4318-b20b-eef166460d64" width="80%" height="500" alt="ALT_TEXT">
+<iframe width="100%" height="100%" src="https://github.com/abhi526691/ATS-Resume-/blob/main/ATS-RESUME.mp4" title="ATS RESUME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
