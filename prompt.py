@@ -45,7 +45,7 @@ class promptBased(FileUpload):
             else:
                 st.error("No match found.", icon="")
         except:
-            st.write(output)
+            print("error")
 
     def cover_letter(self):
         cov_letter = self.prompts.define_cover_letter_prompt()

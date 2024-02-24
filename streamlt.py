@@ -1,5 +1,4 @@
 import streamlit as st
-# from BaseATS import BaseATS
 
 
 class FileUpload():
